@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email:luoyifan2020@gmail.com
 description: "这里是 @Layla Luo 的个人博客，与你一起发现更大的世界 | 一个永远好奇、永远在折腾的新世代科技女孩！"
 keyword: "雒亦凡, Layla Luo, EVBioX, 名佳雒洛, huxpro, Shadow Gambit, 雒亦凡的博客, Layla Blog, 博客, 单细胞分析, 3D建模, R, Python,Blender,计算机视觉, AI, Biology"
-url: "https://luoyifan.me/" 
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+#url: "https://luoyifan.me/" 
+#baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true

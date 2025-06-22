@@ -3,7 +3,7 @@ layout: post
 title: "EVBioX 第二期｜单细胞分析高效学习方法与技巧"
 date: 2025-06-23 10:00:00 +0800
 tags: [EVBioX, 单细胞, 生物信息学, 学习方法]
-header-img: "img/post_EVBioX.png"
+header-img: "img/post_EVBioX.jpg"
 categories: [学习技巧]
 author: Layla Luo
 ---

@@ -1694,3 +1694,16 @@ img::-moz-selection {
 .no-scroll {
   overflow-y: hidden;
 }
+.social-img-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  object-fit: contain;
+  background: transparent;
+  transition: filter 0.2s;
+}
+/* 适当调整大小、阴影、对齐、hover效果等，也可再细化 */

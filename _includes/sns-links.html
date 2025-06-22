@@ -63,26 +63,26 @@
   </li>
   {% endif %}
 
-  {% if site.xiaohongshu_username %}
+{% if site.xiaohongshu_url %}
   <li>
-    <a target="_blank" href="https://www.xiaohongshu.com/user/profile/{{ site.xiaohongshu_username }}">
+    <a target="_blank" href="{{ site.xiaohongshu_url }}">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
-        <img src="{{ site.baseurl }}/img/xiaohongshu-icon.png" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;position:relative;top:2px;" alt="小红书">
+        <img class="social-img-icon" src="{{ site.baseurl }}/img/xiaohongshu-icon.png" alt="小红书">
       </span>
     </a>
   </li>
-  {% endif %}
+{% endif %}
+{% if site.csdn_url %}
+  <li>
+    <a target="_blank" href="{{ site.csdn_url }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <img class="social-img-icon" src="{{ site.baseurl }}/img/csdn-icon.png" alt="CSDN">
+      </span>
+    </a>
+  </li>
+{% endif %}
 
-  {% if site.csdn_username %}
-  <li>
-    <a target="_blank" href="https://blog.csdn.net/{{ site.csdn_username }}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <img src="{{ site.baseurl }}/img/csdn-icon.png" style="width:20px;height:20px;border-radius:50%;vertical-align:middle;position:relative;top:2px;" alt="CSDN">
-      </span>
-    </a>
-  </li>
-  {% endif %}
 </ul>
 

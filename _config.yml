@@ -2,9 +2,9 @@
 title: Layla Luo Blog
 SEOTitle: 雒亦凡的博客 | Layla Blog
 header-img: img/home-bg.jpg
-email:luoyifan2020@gmail.com
+email: luoyifan2020@gmail.com
 description: "这里是 @Layla Luo 的个人博客，与你一起发现更大的世界 | 一个永远好奇、永远在折腾的新世代科技女孩！"
-keyword: "雒亦凡, Layla Luo, EVBioX, 名佳雒洛, huxpro, Shadow Gambit, 雒亦凡的博客, Layla Blog, 博客, 单细胞分析, 3D建模, R, Python,Blender,计算机视觉, AI, Biology"
+keywords: "雒亦凡, Layla Luo, EVBioX, 名佳雒洛, huxpro, Shadow Gambit, 雒亦凡的博客, Layla Blog, 博客, 单细胞分析, 3D建模, R, Python,Blender,计算机视觉, AI, Biology"
 url: "https://luoyifan2020.github.io" 
 baseurl: "" 
 # Publish posts or collection documents with a future date.
@@ -68,20 +68,20 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "科技女孩 / 生信&AI探索者 / 喜欢紫色和创造<br>坚持终身学习，也喜欢把复杂的知识讲简单。EVBioX创始人，愿与你一起探索无限可能！<br>欢迎交流，Let’s code & shine together！"
+sidebar-avatar: img/layla_avatar.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
 featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#8e44ad"
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)

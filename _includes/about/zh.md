@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="{{ '/img/img-me.jpg' | relative_url }}" alt="Layla Luo" width="160" style="border-radius: 50%;" />
+</p>
+
 H# 你好，我是Layla Luo！
 
 一个喜欢思考，也喜欢折腾的科技女孩👟📖🎧  

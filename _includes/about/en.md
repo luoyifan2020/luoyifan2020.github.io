@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="{{ '/img/img-me-3.jpg' | relative_url }}" alt="Layla Luo" width="160" style="border-radius: 50%;" />
+</p>
 # Hi, I'm Layla Luo!
 
 A tech girl with endless curiosity and a passion for both science and life.  

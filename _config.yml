@@ -12,10 +12,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 名佳雒洛
-zhihu_username: Layla_F
+zhihu_username: ming-jia-luo-luo
+weibo_username: 1924957830?user_token=a0.MTg1ZGEwZWU0OWVhNGQyYwTOdzm0l2m2pP08cUlKFiFA1hQtM7GUlBYTbDBEBdmN
 github_username: luoyifan2020
-xiaohongshu_username: Shadow Gambit
+xiaohongshu_username: 5b4a0b80f7e8b944b1a2d317?xsec_token=ABCtHgyfJoYCsICN7dpOGZYTWZL9_7BjdCppWy1lp9qW4%3D&xsec_source=pc_search
+csdn_username: Layla_Luo
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 

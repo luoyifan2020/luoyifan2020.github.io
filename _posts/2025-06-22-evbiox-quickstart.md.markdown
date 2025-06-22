@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EVBioX 第一期：专栏导读+单细胞领域学习路径"
-date: 2024-06-22 20:00:00 +0800
+date: 2025-06-22 20:00:00 +0800
 categories: [专栏导读]
 author: Layla Luo
 header-img: "img/post_EVBioX.png"

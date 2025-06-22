@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "公益项目介绍｜医路随学：为患病儿童点亮求学之路"
-date: 2024-06-23 14:00:00 +0800
+date: 2019-12-26 14:00:00 +0800
 tags: [公益, 教育, 志愿服务, 儿童关爱]
 header-img: "img/gy.jpg"
 categories: [公益分享]

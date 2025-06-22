@@ -1,10 +1,12 @@
 <section class="visible-md visible-lg">
   <hr>
   <h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
-  <div class="short-about">
-    <img src="{{ site.baseurl }}/img/layla_avatar.jpg" alt="Layla Avatar" style="width:120px; border-radius:50%;">
+  <div class="short-about" style="text-align: center;">
+    <img src="{{ site.baseurl }}/img/layla_avatar.jpg"
+         alt="Layla Avatar"
+         style="width: 160px; max-width: 100%; margin: 0 auto; display: block; border-radius: 0;">
     {% if site.sidebar-about-description %}
-    <p>{{site.sidebar-about-description}}</p>
+      <p style="text-align: left; margin-top: 10px;">{{site.sidebar-about-description}}</p>
     {% endif %}
     <!-- SNS Link -->
     {% include sns-links.html %}
